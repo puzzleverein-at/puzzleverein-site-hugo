@@ -1,0 +1,5 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:puzzleverein-at/puzzleverein-at.github.io.git
+	branch = main
+

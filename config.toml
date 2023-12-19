@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://puzzleverein-at.github.io/'
+languageCode = 'de-at'
+title = 'Puzzleverein Österreich'
+theme = 'hinode'
