@@ -1,4 +1,4 @@
 baseURL = 'https://puzzleverein-at.github.io/'
 languageCode = 'de-at'
 title = 'Puzzleverein Österreich'
-theme = 'hinode'
+theme = 'tranquilpeak'

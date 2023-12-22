@@ -3,3 +3,9 @@
 	url = git@github.com:puzzleverein-at/puzzleverein-at.github.io.git
 	branch = main
 
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/puppet"]
+	path = themes/puppet
+	url = https://github.com/roninro/hugo-theme-puppet.git
