@@ -1,5 +1,5 @@
 ---
-title: "Erstes Puzzle Meetup in Wien"
+title: "Erstes Puzzle-Treffen in Wien"
 thumbnailImage: images/meetups.jpg
 coverImage: images/meetups.jpg
 author: vienna

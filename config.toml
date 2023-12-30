@@ -77,7 +77,7 @@ canonifyurls = true
 [author]
   name = "Willkommen beim Puzzleverein Österreich"
   bio = "Treffen und Events für alle Puzzle-Fans!"
-  picture = "images/pieces-icon.png"
+  picture = "images/ajpa-logo1.png"
 
 
 # -------------
@@ -170,7 +170,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "images/piece.png"
+  favicon = "images/ajpa-logo1.png"
 
   # ------------------
   # External resources
@@ -331,4 +331,5 @@ canonifyurls = true
   # --------------------
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   [params.footer]
-    copyright = "Puzzleverein Österreich - Verein zur Förderung des Puzzelns | ZVR Nr 1988846228 | Sitz in Graz \n Sag >><a href=\"mailto:hallo@puzzleverein.at\">hallo@puzzleverein.at</a><< "
+    copyright = "Puzzleverein Österreich - Verein zur Förderung des Puzzelns | ZVR Nr 1988846228 | Sitz in Graz"
+    contact = ">> Sag <a href=\"mailto:hallo@puzzleverein.at\">hallo@puzzleverein.at</a> <<"
