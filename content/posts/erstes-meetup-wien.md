@@ -1,13 +1,14 @@
 ---
 title: "Erstes Puzzle-Treffen in Wien"
-thumbnailImage: images/meetups.jpg
-coverImage: images/meetups.jpg
+thumbnailImage: images/meetups-trim.jpg
+coverImage: images/meetups-trim.jpg
 author: vienna
 metaAlignment: center
-coverMeta: 
+coverMeta: in
+coverSize: partial
 date: 2023-12-19
 tags:
-- vienna
+- wien
 - meetup
 - event
 ---

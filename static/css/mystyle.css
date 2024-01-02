@@ -1,0 +1,26 @@
+.post-header-cover .post-header .post-title{
+    max-width:750px;
+    margin:0 auto;
+    color:#fff;
+    text-shadow:1px 3px 0 rgba(0,0,0,.9);
+    margin-bottom:20px
+}
+
+.post-header-cover .post-header .post-meta{
+    max-width:750px;
+    font-family:"Open Sans",sans-serif;
+    font-size:1.6rem;
+    color:#fff!important;
+    font-weight:400;
+    letter-spacing:.05em;
+    text-shadow:1px 2px 0 rgba(0,0,0,.9);
+    margin:0 auto
+}
+
+#sidebar{
+    text-shadow:1px 1px 0 rgba(0,0,0,.9);
+}
+
+dd{
+    margin-left:30px
+}
