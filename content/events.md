@@ -24,7 +24,7 @@ Hier findest du unsere kommenden Events.
 </dl>
 
 <dl>
-<dt>&#127905; Puzzletreff Wien - Anmeldung über Instagram @viennajigsawpuzzleclub</dt>
+<dt>&#127905; Puzzletreff Wien - Anmeldung über Instagram <a href="https://www.instagram.com/viennajigsawpuzzleclub">@viennajigsawpuzzleclub</a></dt>
     <dd>31.01.2024 (Mi)</dd>
     <dd>[vorläufig] 27.02.2024 (Di)</dd>
     <dd>[vorläufig] 19.03.2024 (Di)</dd>
