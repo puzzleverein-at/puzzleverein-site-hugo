@@ -4,10 +4,11 @@ date: 2024-01-19
 thumbnailImage: images/graz-puzzletreff/PXL_20240119_182053373.MP.jpg
 coverImage: images/graz-puzzletreff/IMG_20240119_202000.jpg
 gallery:
+- /images/graz-puzzletreff/PXL_20240119_191038335.jpg "Improvisierte Lichtquellen"
 - /images/graz-puzzletreff/PXL_20240119_182119016.MP.jpg "Happy puzzling!"
 - /images/graz-puzzletreff/PXL_20240119_182053373.MP.jpg "In progress"
 - /images/graz-puzzletreff/IMG_20240119_200649.jpg "Sheepworld - Schutzengel"
-- /images/graz-puzzletreff/PXL_20240119_191038335.jpg "Improvisierte Lichtquellen"
+- /images/graz-puzzletreff/IMG_20240119_202000.jpg "Alles fertig"
 
 metaAlignment: center
 coverMeta: in
