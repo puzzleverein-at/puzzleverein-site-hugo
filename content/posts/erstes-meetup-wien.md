@@ -1,19 +1,25 @@
 ---
 title: "Erstes Puzzle-Treffen in Wien"
-thumbnailImage: images/meetups-trim.jpg
-coverImage: images/meetups-trim.jpg
-author: vienna
+date: 2023-12-19
+thumbnailImage: images/wien-puzzletreff/cats.png
+coverImage: images/wien-puzzletreff/buns-out.png
+gallery:
+- /images/wien-puzzletreff/cats.png "Happy puzzling!"
+- /images/wien-puzzletreff/buns-out-progress.png "In progress"
+- /images/wien-puzzletreff/buns-out.png "Buns Out"
+
 metaAlignment: center
 coverMeta: in
 coverSize: partial
-date: 2023-12-19
+author: vienna
 tags:
 - wien
 - meetup
 - event
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae 
-<!--more--> libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.
-Sed lorem felis, congue non fringilla eu, aliquam eu eros. Curabitur orci libero, mollis sed semper vitae, adipiscing in lectus. Aenean non egestas odio. Donec sollicitudin nisi quis lorem gravida, in pharetra mauris fringilla. Duis sit amet faucibus dolor, id aliquam neque. In egestas, odio gravida tempor dictum, mauris felis faucibus purus, sit amet commodo lacus diam vitae est. Ut ut quam eget massa semper sodales. Aenean non ipsum cursus, blandit lectus in, ornare odio. Curabitur ultrices porttitor vulputate.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam. Ut nec velit dolor. Proin eget leo lobortis, aliquam est sed, mollis mauris. Fusce vitae leo pretium massa accumsan condimentum. Fusce malesuada gravida lectus vel vulputate. Donec bibendum porta nibh ut aliquam.
+In Wien hat sich eine Gruppe von Puzzle-Fans gefunden, die ein monatliches Meetup ins Leben gerufen haben!
+<!--more--> 
+Beim diesem ersten Treffen wurde sehr viel gepuzzelt und auch getauscht, und sogar eine Journalistin kam vorbei, die kurz darauf einen schönen Artikel im Standard über unser wunderbares Hobby sowie die neue Begeisterung des Speedpuzzelns schrieb. Einige unserer Wiener Truppe (sowie viele weitere Österreicher) sind nämlich auch 2024 wieder bei den World Jigsaw Puzzle Championships in Spanien anzutreffen!
+
+Check out more in our Instagram posts: [@viennajigsawpuzzleclub](https://www.instagram.com/reel/C1tfnISocOk/?utm_source=ig_web_copy_link&igsh=NTYzOWQzNmJjMA==)

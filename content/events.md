@@ -33,12 +33,13 @@ Hier findest du unsere kommenden Events.
 
 <dl>
 <dt>&#127823; Puzzletreff Graz</dt>
-    <dd>in Planung!</dd>
+    <dd>15.03.2024 (Fr)</dd>
+    <dd>weitere folgen!</dd>
 </dl>
 
 <dl>
 <dt>&#127462;&#127481; Österreichischer Puzzle-Wettbewerb</dt>
-    <dd>in Planung!</dd>
+    <dd>in Planung! (voraussichtlich Sommer 2024 in Wien)</dd>
 </dl>
 
 Fröhliches Puzzeln und hoffentlich bis bald!
