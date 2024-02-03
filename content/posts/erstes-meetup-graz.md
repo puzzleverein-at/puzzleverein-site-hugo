@@ -22,6 +22,6 @@ tags:
 
 Als eine stetig wachsende Gruppe in Graz und Umgebung haben wir seit einiger Zeit die Praxis, Puzzles zu tauschen. Angesichts der zahlreichen neuen Mitglieder haben wir dies zum Anlass genommen, uns als Kollektiv zu treffen, um nicht nur Puzzles auszutauschen, sondern auch gemeinsam zu puzzeln!
 <!--more--> 
-Unser Treffpunkt war das gemütliche Café Kork, wo uns der zuvorkommende Inhaber großzügig im oberen Geschoß Platz verschaffte, indem er eine geräumige Holzplatte für uns vorbereitete. Alle kamen mit großen Taschen voller Puzzles an und gingen schließlich mit neuen Fünden nach Hause. Als Dankeschön für die Gastfreundschaft schenkten wir dem Café eines der gelegten Puzzles, das nun stolz in ihrem Stapel von Brettspielen thront.
+Unser Treffpunkt war das gemütliche Café Kork, wo uns der zuvorkommende Inhaber großzügig im oberen Geschoß Platz verschaffte, indem er eine geräumige Holzplatte für uns vorbereitete. Alle kamen mit großen Taschen voller Puzzles an und gingen schließlich mit neuen Funden nach Hause. Als Dankeschön für die Gastfreundschaft schenkten wir dem Café eines der gelegten Puzzles, das nun stolz in ihrem Stapel von Brettspielen thront.
 
 Eine wichtige Erkenntnis aus unserem ersten Treffen: Beim nächsten Mal werden wir sicherlich auch Lampen mitbringen! :D

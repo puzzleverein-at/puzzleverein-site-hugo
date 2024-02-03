@@ -19,20 +19,14 @@ Hier findest du unsere kommenden Events.
 <br>
     
 <dl>
-<dt>&#128187; Online Speedpuzzle Bewerb</dt>
-    <dd>25.01.2024 - <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLiYeZizZzD_Ozi-12Ps_FZaoMAGelxGR-Urk7dwLR7NTOcQ/viewform">Infos & Anmeldung</a></dd>
-</dl>
-
-<dl>
 <dt>&#127905; Puzzletreff Wien - Anmeldung über Instagram <a href="https://www.instagram.com/viennajigsawpuzzleclub">@viennajigsawpuzzleclub</a></dt>
-    <dd>31.01.2024 (Mi)</dd>
-    <dd>[vorläufig] 27.02.2024 (Di)</dd>
+    <dd>27.02.2024 (Di)</dd>
     <dd>[vorläufig] 19.03.2024 (Di)</dd>
     <dd>weitere folgen!</dd>
 </dl>
 
 <dl>
-<dt>&#127823; Puzzletreff Graz</dt>
+<dt>&#127823; Puzzletreff Graz - Anmeldung über Instagram <a href="https://www.instagram.com/verelanz">@verelanz</a></dt>
     <dd>15.03.2024 (Fr)</dd>
     <dd>weitere folgen!</dd>
 </dl>
@@ -41,6 +35,12 @@ Hier findest du unsere kommenden Events.
 <dt>&#127462;&#127481; Österreichischer Puzzle-Wettbewerb</dt>
     <dd>in Planung! (voraussichtlich Sommer 2024 in Wien)</dd>
 </dl>
+
+<dl>
+<dt>&#128187; Online Speedpuzzle Bewerb</dt>
+    <dd>Vorbei! Der nächste folgt bestimmt</dd>
+</dl>
+
 
 Fröhliches Puzzeln und hoffentlich bis bald!
 
