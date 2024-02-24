@@ -22,7 +22,7 @@
   {{- .Scratch.Set "authorPicture" (absURL .Site.Author.picture) -}}
 {{- end -}}
 {{- if .Site.Author.partnerpicture -}}
-  {{- .Scratch.Set "partnerPicture" .Site.Author.partnerpicture -}}
+  {{- .Scratch.Set "partnerPicture" (absURL .Site.Author.partnerpicture) -}}
 {{- end -}}
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">

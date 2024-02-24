@@ -87,7 +87,7 @@ canonifyurls = true
   name = "Willkommen beim Puzzleverein Österreich"
   bio = "Treffen und Events für Puzzle-Fans in Österreich!"
   picture = "images/ajpa-logo-transp.png"
-  partnerpicture = "images/wjpf-logo-black.jpeg"
+  partnerpicture = "images/wjpf-logo-black-padded.jpg"
 
 [params.partner]
   name = "World Jigsaw Puzzle Federation (WJPF)"
