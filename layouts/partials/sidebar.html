@@ -24,7 +24,7 @@
     {{ with ($.Scratch.Get "partnerPicture") }}
     <div class="sidebar-profile">
       <h4 class="sidebar-profile-name">partnered with</h4>
-      <a href="{{ if $.Site.Params.sidebar.partner.url }}{{ $.Site.Params.sidebar.partner.url }}{{ else }}{{ "/" }}{{ end }}">
+      <a href="{{ if $.Site.Params.partner.url }}{{ $.Site.Params.partner.url }}{{ else }}{{ "/" }}{{ end }}">
         <img class="sidebar-partner-picture" src="{{ . }}?s=110" />
       </a>
     </div>
