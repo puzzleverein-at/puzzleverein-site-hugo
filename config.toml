@@ -87,6 +87,7 @@ canonifyurls = true
   name = "Willkommen beim Puzzleverein Österreich"
   bio = "Treffen und Events für Puzzle-Fans in Österreich!"
   picture = "images/ajpa-logo1.png"
+  partnerpicture = "images/wjpf-logo-black.jpeg"
 
 
 # -------------
@@ -155,6 +156,9 @@ canonifyurls = true
   # Customize link of author avatar in sidebar
   #  [params.sidebar.profile]
   #    url = "/about"
+  [params.sidebar.partner]
+    url = "https://www.worldjigsawpuzzle.org/members"
+    # picture = "images/wjpf-logo-black.jpeg"  -> set in "author" because of weird code links
 
   # -------------------
   # Media configuration

@@ -38,7 +38,7 @@ Hier findest du unsere kommenden Events.
 
 <dl>
 <dt>&#128187; Online Speedpuzzle Bewerb</dt>
-    <dd>Vorbei! Der nächste folgt bestimmt</dd>
+    <dd>14.03.2024 (Do) - <a href="https://docs.google.com/forms/d/e/1FAIpQLScnuMfnLmxDPKtBF1V5NJzswkLY6SxW7CJUsSQBl4_75vq2-g/viewform">mehr Info und Anmeldung</a> </dd>
 </dl>
 
 
