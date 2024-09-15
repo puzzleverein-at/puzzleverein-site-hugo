@@ -22,4 +22,4 @@ In Wien hat sich eine Gruppe von Puzzle-Fans gefunden, die ein monatliches Meetu
 <!--more--> 
 Beim diesem ersten Treffen wurde sehr viel gepuzzelt und auch getauscht, und sogar eine Journalistin kam vorbei, die kurz darauf einen schönen Artikel im Standard über unser wunderbares Hobby sowie die neue Begeisterung des Speedpuzzelns schrieb. Einige unserer Wiener Truppe (sowie viele weitere Österreicher) sind nämlich auch 2024 wieder bei den World Jigsaw Puzzle Championships in Spanien anzutreffen!
 
-Check out more in our Instagram posts: [@viennajigsawpuzzleclub](https://www.instagram.com/reel/C1tfnISocOk/?utm_source=ig_web_copy_link&igsh=NTYzOWQzNmJjMA==)
+Schaut auch mal auf die Instagram Page: [@viennajigsawpuzzleclub](https://www.instagram.com/reel/C1tfnISocOk/?utm_source=ig_web_copy_link&igsh=NTYzOWQzNmJjMA==)
