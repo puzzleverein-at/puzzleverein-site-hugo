@@ -19,6 +19,11 @@ Hier findest du unsere Events!
 <br>
     
 <dl>
+<dt>&#127462;&#127481; Österreichische Puzzle-Meisterschaften</dt>
+    <dd>Save the Date: 28. Juni 2025! Mehr Infos kommen bald...</dd>
+</dl>
+
+<dl>
 <dt>&#127905; Puzzletreff Wien</dt>
     <dd>Findet jeden Monat statt</dd>
     <dd>Details und Anmeldung findet ihr auf Instagram <a href="https://www.instagram.com/viennajigsawpuzzleclub">@viennajigsawpuzzleclub</a>!</dd>
@@ -26,15 +31,10 @@ Hier findest du unsere Events!
 
 <dl>
 <dt>&#127823; Puzzletreff Graz</dt>
-    <dd>Findet ca. alle drei Monate statt</dd>
+    <dd>Findet ca. alle zwei Monate statt</dd>
     <dd>Für Details, meldet auch auf Instagram <a href="https://www.instagram.com/verelanz">@verelanz</a>!</dd>
 </dl>
 
-
-<dl>
-<dt>&#127462;&#127481; Österreichische Puzzle-Meisterschaften</dt>
-    <dd>In Planung für 2025!</dd>
-</dl>
 
 <dl>
 <dt>&#10067; Puzzle Event für Alle (noch nicht veröffentlicht!)</dt>
