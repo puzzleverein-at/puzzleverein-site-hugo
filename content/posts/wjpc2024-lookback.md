@@ -1,5 +1,5 @@
 ---
-title: "Österreich glänzt bei der WJPC 2024!"
+title: "Österreich glänzt bei der WJPC 2024"
 date: 2024-10-01
 thumbnailImage: images/wjpc2024/gwr-at.jpeg
 coverImage: images/wjpc2024/floor-solo.jpg

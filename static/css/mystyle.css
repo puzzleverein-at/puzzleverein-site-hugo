@@ -18,7 +18,7 @@
 }
 
 #sidebar{
-    text-shadow:1px 1px 0 rgba(0,0,0,.9);
+    text-shadow:1px 1px 0 rgba(0, 0, 0, 0.9);
 }
 
 dd{
@@ -74,6 +74,12 @@ dd{
     }
 }
 
+
+#sidebar[data-behavior="1"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-desc{
+    font-size:1.7rem;
+    font-weight:bold;
+}
+
 @media only screen and (min-width: 1280px) {
     #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-picture,
     #sidebar[data-behavior="2"] .sidebar-profile .sidebar-profile-picture,
@@ -81,4 +87,26 @@ dd{
     #sidebar[data-behavior="5"] .sidebar-profile .sidebar-profile-picture{
         width:160px;
     }
+
+    #sidebar[data-behavior="1"] ul.sidebar-buttons{
+        width:95%;
+    }
+
+    #sidebar[data-behavior="1"] ul.sidebar-buttons li.sidebar-button{
+        padding-left:50px;
+    }
+
+    #sidebar[data-behavior="1"] ul.sidebar-buttons li.sidebar-button .sidebar-button-link .sidebar-button-desc{
+        font-size:1.8rem;
+        font-weight:bold;
+    }
+
+    #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-name{
+        font-size:1.8rem;
+    }
+    
+    #sidebar[data-behavior="1"] .sidebar-profile .sidebar-profile-bio{
+        font-size:1.6rem;
+    }    
 }
+

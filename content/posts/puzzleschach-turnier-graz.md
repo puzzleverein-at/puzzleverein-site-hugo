@@ -1,5 +1,5 @@
 ---
-title: "Puzzle, Spaß und Spannung – Unser erstes Puzzle-Schach-Turnier!"
+title: "Puzzle, Spaß und Spannung – Unser erstes Puzzle-Schach-Turnier"
 date: 2024-12-12
 thumbnailImage: images/puzzle-schach/puzzle-wall-high.jpg
 coverImage: images/puzzle-schach/spannung.jpg
