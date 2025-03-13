@@ -48,30 +48,30 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-heart\" aria-hidden=\"true\"></i>"
   url = "/ueber-uns"
 [[menu.main]]
-  weight = 4
+  weight = 5
   identifier = "posts"
   name = "Posts"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-bookmark\" aria-hidden=\"true\"></i>"
   url = "/tags"
 [[menu.main]]
-  weight = 5
+  weight = 4
   identifier = "events"
   name = "Events"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-calendar\" aria-hidden=\"true\"></i>"
   url = "/events"
-#[[menu.main]]
-#  weight = 3
-#  identifier = "membership"
-#  name = "Mitgliedschaft"
-#  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user-circle\" aria-hidden=\"true\"></i>"
-#  url = "/mitgliedschaft"
-
-[[menu.links]]
+[[menu.main]]
   weight = 3
-  identifier = "puzzle-swap"
-  name = "Puzzle Swap"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-handshake\" aria-hidden=\"true\"></i>"
-  url = "https://tauschen.puzzleverein.at"
+  identifier = "membership"
+  name = "Mitgliedschaft"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user-circle\" aria-hidden=\"true\"></i>"
+  url = "/mitgliedschaft"
+
+#[[menu.links]]
+#  weight = 3
+#  identifier = "puzzle-swap"
+#  name = "Puzzle Swap"
+#  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-handshake\" aria-hidden=\"true\"></i>"
+#  url = "https://tauschen.puzzleverein.at"
 
 
 [[menu.misc]]

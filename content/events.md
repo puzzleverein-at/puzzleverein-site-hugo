@@ -3,10 +3,10 @@ type: "page"
 layout: "simple-single"
 
 clearReading: true
-title: "Unsere Events"
+title: "Events"
 thumbnailImagePosition: "bottom"
-thumbnailImage: images/background.jpg
-coverImage: images/background.jpg
+thumbnailImage: images/puzzle-event.jpg
+coverImage: images/puzzle-event.jpg
 author: osterreich
 metaAlignment: center
 coverMeta: in
@@ -14,13 +14,15 @@ coverSize: partial
 showDate: false
 ---
 
-Hier findest du unsere Events!
+Hier findest du ein paar lokale Events!
 <!--more-->
 <br>
     
 <dl>
 <dt>&#127462;&#127481; Österreichische Puzzle-Meisterschaften</dt>
-    <dd>Save the Date: 28. Juni 2025! Mehr Infos kommen bald...</dd>
+    <dd>Save the Date: 28. Juni 2025</dd>
+    <dd>Ort: Wiener Neudorf</dd>
+    <dd>Mehr Infos kommen bald...</dd>
 </dl>
 
 <dl>

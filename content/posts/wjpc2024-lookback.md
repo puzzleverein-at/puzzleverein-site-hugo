@@ -8,8 +8,8 @@ gallery:
 - /images/wjpc2024/solo.jpeg "im Einzelbewerb"
 - /images/wjpc2024/gwr-stream-at.jpeg "Danke fürs Anfeuern!"
 - /images/wjpc2024/photo-wall.jpg "die Photo-Wall"
-- /images/wjpc2024/passt-scho.jpeg "nach dem Teams Finale"
 - /images/wjpc2024/team.jpeg "nach dem Teams Finale"
+- /images/wjpc2024/passt-scho.jpeg "nach dem Teams Finale"
 
 metaAlignment: center
 coverMeta: in
