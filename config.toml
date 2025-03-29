@@ -66,12 +66,18 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-user-circle\" aria-hidden=\"true\"></i>"
   url = "/mitgliedschaft"
 
-#[[menu.links]]
-#  weight = 3
-#  identifier = "puzzle-swap"
-#  name = "Puzzle Swap"
-#  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-handshake\" aria-hidden=\"true\"></i>"
-#  url = "https://tauschen.puzzleverein.at"
+[[menu.links]]
+  weight = 2
+  identifier = "meisterschaft"
+  name = "Meisterschaft 2025"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-trophy\" aria-hidden=\"true\"></i>"
+  url = "/meisterschaft2025"  # "https://meisterschaft.puzzleverein.at"
+[[menu.links]]
+  weight = 3
+  identifier = "puzzle-swap"
+  name = "Puzzle Swap"
+  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-handshake\" aria-hidden=\"true\"></i>"
+  url = "https://tauschen.puzzleverein.at"
 
 
 [[menu.misc]]

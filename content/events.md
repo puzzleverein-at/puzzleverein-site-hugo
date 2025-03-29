@@ -5,8 +5,8 @@ layout: "simple-single"
 clearReading: true
 title: "Events"
 thumbnailImagePosition: "bottom"
-thumbnailImage: images/puzzle-event.jpg
-coverImage: images/puzzle-event.jpg
+thumbnailImage: images/puzzle-event-purple.jpg
+coverImage: images/puzzle-event-purple.jpg
 author: osterreich
 metaAlignment: center
 coverMeta: in
@@ -20,9 +20,9 @@ Hier findest du ein paar lokale Events!
     
 <dl>
 <dt>&#127462;&#127481; Österreichische Puzzle-Meisterschaften</dt>
-    <dd>Save the Date: 28. Juni 2025</dd>
+    <dd>Datum: 28. Juni 2025</dd>
     <dd>Ort: Wiener Neudorf</dd>
-    <dd>Mehr Infos kommen bald...</dd>
+    <dd>Mehr Infos findest du unter dem "Meisterschaft" Link</dd>
 </dl>
 
 <dl>
@@ -33,7 +33,7 @@ Hier findest du ein paar lokale Events!
 
 <dl>
 <dt>&#127823; Puzzletreff Graz</dt>
-    <dd>Findet ca. alle zwei Monate statt</dd>
+    <dd>Findet alle zwei Monate statt</dd>
     <dd>Für Details, meldet auch auf Instagram <a href="https://www.instagram.com/verelanz">@verelanz</a>!</dd>
 </dl>
 
