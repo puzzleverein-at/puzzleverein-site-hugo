@@ -18,24 +18,26 @@ showDate: false
 
 Die Anmeldung wird in Kürze geöffnet!
 <!--more-->
-(for the English version see below! &#127468;&#127463;)
+Registrations will open shortly!
+(for more information in English see below! &#127468;&#127463;)
 
 -----
 
-**Ort** 
-Freizeitzentrum Wiener Neudorf<br>
-*Eumigweg 1, 2351 Wiener Neudorf*<br>
+**Ort**<br>
+Franz-Fürst-Freizeitzentrum Wiener Neudorf<br>
+*Eumigweg 1-3, 2351 Wiener Neudorf*<br>
 Bahnhof "Wiener Neudorf" in Gehweite, Parkplätze vor Ort vorhanden
 
+**Sponsor**<br>
+Ravensburger
 
-**Zeitplan**
+**Zeitplan**<br>
 Samstag, 28. Juni 2025
-*  9:00   Einlass Teilnehmer:innen
-*  9:45   Begrüßung von Ravensburger
+*  9:00   Einlass
+*  9:45   Begrüßung
 * 10:00 - 12:00   Einzelbewerb
 * 12:45 - 14:15   Paarbewerb
 * 15:00 - 18:00   Teambewerb
-* im Anschluss Siegerehrung
 
 **Regeln**
 1. Anmeldung
@@ -50,11 +52,11 @@ Samstag, 28. Juni 2025
    - Eine Online-Teilnahme ist nicht möglich.
 
 2. Wettbewerbe
-   - Einzel:	Maximal 100 Personen nehmen teil. Jede:r Teilnehmer:in hat max. 120 Minuten, um ein 500-Teile Puzzle zu lösen. Gewinner:in ist, wer das Puzzle in der kürzesten Zeit vollständig zusammenlegt. Sollte kein:e Teilnehmer:in das Puzzle beenden, gewinnt, wer in der Zeit die meisten Teile korrekt platziert hat. Gewertet werden hierbei alle zusammenhängenden Teile ab einer Gruppengröße von 3 Teilen.
-   - Paare:	Maximal 100 Paare nehmen teil. Jedes Paar hat 90 Minuten, um ein 500-Teile Puzzle zu lösen. Es gewinnt das Paar, welches das Puzzle in der kürzesten Zeit vollständig zusammenlegt. Sollte kein Paar das Puzzle beenden, gewinnt dasjenige Paar, das in der Zeit die meisten Teile korrekt platziert hat. Gewertet werden hierbei alle zusammenhängenden Teile ab einer Gruppengröße von 3 Teilen. Während des Wettbewerbs können keine Mitglieder eines Paars ausgetauscht werden.
-   - Teams:	Maximal 50 Teams nehmen teil. Ein Team besteht aus mindestens 3 und maximal 4 Personen. Jedes Team hat max. 3 Stunden, um ein 500-Teile Puzzle und ein 1000-Teile Puzzle zu lösen, wobei jedes Team entscheiden darf, mit welchem Puzzle es beginnt. Das zweite Puzzle darf erst begonnen werden, wenn das erste beendet wurde, und die Vollständigkeit durch eine autorisierte Person bestätigt worden ist. Beschließt ein Team, ein Puzzle zu wechseln, obwohl das erste Puzzle noch nicht beendet wurde, dann muss das erste Puzzle vollständig in Einzelteile zerlegt und in die Schachtel verpackt werden. Auch dieses Beenden muss von einer autorisierten Person bestätigt werden, bevor das zweite Puzzle begonnen werden darf. Es gewinnt das Team, welches die Puzzles in der kürzesten Zeit vollständig zusammenlegt. Sollte kein Team alle Puzzles beenden, gewinnt dasjenige Team, das in der Zeit die meisten Teile korrekt platziert hat. Gewertet werden hierbei alle zusammenhängenden Teile ab einer Gruppengröße von 3 Teilen. Während des Wettbewerbs können keine Teammitglieder ausgetauscht werden.
+   - Einzel:  Maximal 100 Personen nehmen teil. Jede:r Teilnehmer:in hat max. 120 Minuten, um ein 500-Teile Puzzle zu lösen. Gewinner:in ist, wer das Puzzle in der kürzesten Zeit vollständig zusammenlegt. Sollte kein:e Teilnehmer:in das Puzzle beenden, gewinnt, wer in der Zeit die meisten Teile korrekt platziert hat. Gewertet werden hierbei alle zusammenhängenden Teile ab einer Gruppengröße von 3 Teilen.
+   - Paare:   Maximal 100 Paare nehmen teil. Jedes Paar hat 90 Minuten, um ein 500-Teile Puzzle zu lösen. Es gewinnt das Paar, welches das Puzzle in der kürzesten Zeit vollständig zusammenlegt. Sollte kein Paar das Puzzle beenden, gewinnt dasjenige Paar, das in der Zeit die meisten Teile korrekt platziert hat. Gewertet werden hierbei alle zusammenhängenden Teile ab einer Gruppengröße von 3 Teilen. Während des Wettbewerbs können keine Mitglieder eines Paars ausgetauscht werden.
+   - Teams:   Maximal 50 Teams nehmen teil. Ein Team besteht aus mindestens 3 und maximal 4 Personen. Jedes Team hat max. 3 Stunden, um ein 500-Teile Puzzle und ein 1000-Teile Puzzle zu lösen, wobei jedes Team entscheiden darf, mit welchem Puzzle es beginnt. Das zweite Puzzle darf erst begonnen werden, wenn das erste beendet wurde, und die Vollständigkeit durch eine autorisierte Person bestätigt worden ist. Beschließt ein Team, ein Puzzle zu wechseln, obwohl das erste Puzzle noch nicht beendet wurde, dann muss das erste Puzzle vollständig in Einzelteile zerlegt und in die Schachtel verpackt werden. Auch dieses Beenden muss von einer autorisierten Person bestätigt werden, bevor das zweite Puzzle begonnen werden darf. Es gewinnt das Team, welches die Puzzles in der kürzesten Zeit vollständig zusammenlegt. Sollte kein Team alle Puzzles beenden, gewinnt dasjenige Team, das in der Zeit die meisten Teile korrekt platziert hat. Gewertet werden hierbei alle zusammenhängenden Teile ab einer Gruppengröße von 3 Teilen. Während des Wettbewerbs können keine Teammitglieder ausgetauscht werden.
 
-3. Preise	
+3. Preise   
    - Die Siegerehrung (gesponsert mit Sachpreisen von Ravensburger) für alle Kategorien beginnt im Anschluss an den Team-Wettbewerb. Nur österreichische Teilnehmer:innen kommen für den Gewinn der Hauptpreise in Frage. 
 
 4. Teilnahmegebühren
@@ -73,7 +75,7 @@ Samstag, 28. Juni 2025
    - Der Veranstalter behält sich vor, Teilnehmern:innen die Anmeldung, Teilnahme und den Einlass zu verweigern, z.B. falls diese die Veranstaltung stören.
    - Der Veranstalter behält sich das Recht vor, den Zeitplan, Veranstaltungsort etc. zu ändern.
 
-6. Während des Wettbewerbs:
+6. Während des Wettbewerbs
    - Die Tische haben eine Größe von 120 cm x 60 cm.
    - Alle Tische sind nummeriert und werden Informationen zu Name und Nationalität/Wohnort der zugeteilten Teilnehmer:innen bereitstellen.
    - Im Falle, dass sich Teilnehmer:innen einen Tisch teilen, darf der Bereich der Tischnachbar:innen nicht beeinträchtigt werden. Ernsthafte Beeinträchtigungen führen gegebenenfalls zur Disqualifikation.
@@ -81,16 +83,16 @@ Samstag, 28. Juni 2025
    - Bis der Beginn des Wettbewerbs angekündigt und die Stoppuhr gestartet wurde, dürfen die verpackten Puzzles nicht manipuliert, entsiegelt oder geöffnet werden.
    - Falls ein Puzzle nicht dem Modell der Runde entspricht, tauschen die Veranstalter das Puzzle gegen das richtige Modell aus und notieren die neue Startzeit. Wenn ein:e Teilnehmer:in das Puzzle in der vorgegebenen Zeit nicht beendet, wird die verlorene Zeit vom Anfang am Schluss entsprechend zusätzlich gegeben. 
    - Sollten einzelne Puzzles noch versiegelt sein, wird das Puzzle ggf. von einer autorisierten Person geöffnet und die neue Startzeit notiert. Wenn ein:e Teilnehmer:in das Puzzle in der vorgegebenen Zeit nicht beendet, wird die verlorene Zeit vom Anfang am Schluss entsprechend zusätzlich gegeben. Teilnehmer:innen dürfen aus Sicherheitsgründen unter keinen Umständen scharfe oder spitze Gegenstände in den Wettbewerbsbereich mitbringen. 
-   - Es wird nicht garantiert, dass Offizielle heruntergefallene Teile aufheben und/oder auf dem richtigen Tisch platzieren.
+   - Es wird nicht garantiert, dass autorisierte Personen heruntergefallene Teile aufheben und/oder auf dem richtigen Tisch platzieren.
    - Teilnehmer:innen dürfen während des Wettbewerbs den Wettbewerbsbereich verlassen, um zu pausieren oder zur Toilette zu gehen. Jedoch wird die Zeit dafür nicht gestoppt. 
    - Jegliche Assistenz/Hilfe für Teilnehmer:innen von weiteren Personen kann zur Disqualifikation führen.
    - Wir bitten darum, persönliche Gegenstände unter dem eigenen Tisch zu platzieren. 
    - Wir bitten die Teilnehmer:innen darum, während des Wettbewerbs nicht in den Gängen zu stehen, um das Durchkommen autorisierter Personen sicherzustellen.
-   - Offizielle werden den Wettbewerb überwachen und die Zeiten der Löser notieren. Ist ein:e Teilnehmer:in / ein Paar / ein Team kurz vor Beendigung eines Puzzles, wird empfohlen, einen Arm zu heben, um eine autorisierte Person aufmerksam zu machen, damit dieser die Zeit notieren kann. Nach Überprüfung der Vollständigkeit wird der Offizielle die Zeit notieren.
+   - Autorisierte Personen werden den Wettbewerb überwachen und die Zeiten der Löser notieren. Ist ein:e Teilnehmer:in / ein Paar / ein Team kurz vor Beendigung eines Puzzles, wird empfohlen, einen Arm zu heben, um eine autorisierte Person aufmerksam zu machen, damit dieser die Zeit notieren kann. Nach Überprüfung der Vollständigkeit wird eine autorisierte Person die Zeit notieren.
    - Erklärt ein:e Teilnehmer:in ein Puzzle für beendet, obwohl Teile fehlen (maximal 10), so werden für jedes fehlende Teil 10 Sekunden der Endzeit hinzugefügt. Teilnehmer:innen müssen also selbst entscheiden, entweder nach den verlorenen Teilen zu suchen oder die Zeit zu stoppen und die Zeitstrafe in Kauf zu nehmen.
-   - Fehlen mehrere Teile direkt nebeneinander, entscheidet ein Offizieller, ob es sich um einen Fabrikationsfehler handelt und daher auf eine Strafzeit verzichtet wird.
+   - Fehlen mehrere Teile direkt nebeneinander, entscheidet eine autorisierte Person, ob es sich um einen Fabrikationsfehler handelt und daher auf eine Strafzeit verzichtet wird.
    - Fehlen mehr als 10 Teile ohne Fabrikationsfehler, gilt das Puzzle als nicht gelöst. Solche Teilnehmer:innen kommen nicht in die Wertung.
-   - Die Entscheidungen der autorisierten Personen  während der Wettbewerbe sind endgültig.
+   - Die Entscheidungen der autorisierten Personen während der Wettbewerbe sind endgültig.
 
 7. Zusätzliche Gegenstände
    - Bei 500-Teile Puzzles dürfen die Teilnehmer:innen 2 Sortierhilfen (max. der Größe A3) aus Karton, Schaumstoff oder anderen Materialien verwenden. Bei 1000-Teile Puzzles dürfen die Teilnehmer:innen 4 Sortierhilfen (max. der Größe A2) aus Karton, Schaumstoff oder anderen Materialien verwenden. Diese werden nicht vom Veranstalter zur Verfügung gestellt.
@@ -113,24 +115,95 @@ Samstag, 28. Juni 2025
 
 
 
-
 -----
 &#127468;&#127463;
 
-**Location** 
-"Freizeitzentrum Wiener Neudorf"<br>
-*Eumigweg 1, 2351 Wiener Neudorf*<br>
-Train Station "Wiener Neudorf" in walking distance, parking spots available at venue
+**Location**<br>
+"Franz-Fürst-Freizeitzentrum Wiener Neudorf"<br>
+*Eumigweg 1-3, 2351 Wiener Neudorf*<br>
+Train station "Wiener Neudorf" in walking distance, parking spots available at venue
 
+**Sponsor**<br>
+Ravensburger
 
-**Timetable**
+**Schedule**<br>
 Saturday, 28th June 2025
-*  9:00   Admission participants
-*  9:45   Welcome by Ravensburger
-* 10:00 - 12:00   Individuals round
+*  9:00   Admission
+*  9:45   Welcome
+* 10:00 - 12:00   Individual round
 * 12:45 - 14:15   Pairs round
 * 15:00 - 18:00   Teams round
-* afterwards award ceremony
 
 **Rules**
+1. Registration
+   - In the following, participants with Austrian citizenship or residence in Austria are referred to as ‘Austrian participants’, all other participants as ‘international participants’.
+   - Pairs and teams with at least one international participant are considered international.
+   - Registration for Austrian participants starts on 08 April 2025.
+   - From 08 April 2025, international participants may also register. They will automatically be placed on the waiting list until 22 April 2025. From 22 April 2025, the international participants will automatically move up if there are still places available.
+   - On 14 June 2025, registration will end for everyone, or as soon as all places are filled.
+   - People aged 14 and over may register in all categories.
+   - Each person may only register once per category. A person cannot be part of two different teams or be registered with two different partners in the pairs category.
+   - Registration is complete as soon as this has been confirmed by email.
+   - Online participation is not possible.
 
+2. Competitions
+   - Individual: A maximum of 100 people will participate. Each participant has a maximum of 120 minutes to complete a 500-piece puzzle. The winner is the person who completes the puzzle in the shortest time. If no participant finishes the puzzle, the winner is the person who has placed the most pieces correctly in the time allowed. All connected pieces with a group size of 3 or more are counted.
+   - Pairs: A maximum of 100 pairs take part. Each pair has 90 minutes to solve a 500-piece puzzle. The winning pair is the one that completes the puzzle in the shortest time. If no pair finishes the puzzle, the pair that has placed the most pieces correctly in the time wins. All connected pieces with a group size of 3 or more are counted. Members of a pair cannot be replaced during the competition.
+   - Teams: A maximum of 50 teams will take part. A team consists of at least 3 and at most 4 people. Each team has a maximum of 3 hours to solve a 500-piece puzzle and a 1000-piece puzzle, whereby each team may decide which puzzle to start with. The second puzzle may only be started once the first one has been completed and an official has confirmed that it is complete. If a team decides to change puzzles before the first puzzle is finished, the first puzzle must be completely disassembled into individual pieces and packed into the box. This must also be confirmed by an official before the second puzzle may be started. The team that completes the puzzles in the shortest time wins. If no team finishes all the puzzles, the team that has placed the most pieces correctly in the time wins. All connected pieces with a group size of 3 or more are counted. No team members can be replaced during the competition.
+
+3. Prizes	
+   - The award ceremony (sponsored with non-cash prizes by Ravensburger) for all categories will begin after the team competition. Only Austrian participants are eligible to win the main prizes.
+
+4. Entry Fees
+   - Individual: €25
+   - Pairs: €30
+   - Teams: €60
+
+5. Before the Competition
+   - Participants must take their seats 10 minutes before the start.
+   - In case of non-attendance by registered participants, the organiser reserves the right to nominate participants at short notice, e.g. from a waiting list.
+   - If a participant withdraws their registration, a refund of the entry fee can only be made up to 31 May 2025.
+   - Travel and accommodation costs will not be covered by the organiser.
+   - We ask participants with limited mobility to contact the organiser in advance to ensure unimpeded participation.
+   - For participants with physical disabilities (e.g. wheelchair), the organiser reserves the right to adjust the rules to enable fair participation (e.g. changing the height of tables or handing dropped pieces).
+   - In case of cancellation or postponement of the championship for reasons beyond the organiser’s control, the organiser is not liable for indirect expenses incurred by the participants, except for the registration fees paid.
+   - The organiser reserves the right to refuse registration, participation and admission to participants, e.g. if they disrupt the event.
+   - The organiser reserves the right to change the schedule, venue, etc.
+
+6. During the Competition
+   - The tables are 120 cm x 60 cm in size.
+   - All tables are numbered and will provide information on the name and nationality/place of residence of the assigned participants.
+   - In the event that participants share a table, the area of the neighbouring participant must not be impaired. Serious interference may result in disqualification.
+   - Only participants and officials are allowed access to the competition area.
+   - Until the start of the competition has been announced and the stopwatch has been started, the packaged puzzles may not be tampered with, unsealed or opened.
+   - If a puzzle does not match the model of the round, the organiser will exchange the puzzle for the correct model and note the new start time. If a participant does not finish the puzzle in the given time, the lost time from the start will be added accordingly at the end.
+   - If individual puzzles are still sealed, an authorised person will open the puzzle if necessary and note the new start time. If a participant does not finish the puzzle in the given time, the lost time from the start will be added accordingly at the end. For safety reasons, participants are not allowed to bring sharp or pointed objects into the competition area under any circumstances.
+   - There is no guarantee that officials will pick up dropped pieces and/or place them on the correct table.
+   - Participants are allowed to leave the competition area during the competition to take a break or use the bathroom. However, the time will not be stopped for this.
+   - Any assistance/help for participants from other people may result in disqualification.
+   - We ask that personal belongings be placed under the respective participant’s table.
+   - We ask that participants do not stand in the aisles during the competition to ensure the passage of officials.
+   - Officials will monitor the competition and record the times of the finished participants. When a participant / pair / team is about to finish a puzzle, it is recommended to raise an arm to alert an official to note the time. After checking for completeness, the official will record the time.
+   - If a participant declares a puzzle to be finished even though pieces are missing (maximum 10), 10 seconds will be added to the final time for each missing piece. Participants must therefore decide for themselves whether to search for the lost pieces or to stop the time and accept the time penalty.
+   - If several pieces are missing next to each other, an official will decide whether it is a manufacturing defect in which case no penalty time will be applied.
+   - If more than 10 pieces are missing without it being classed a manufacturing defect, the puzzle is considered not solved. Such participants will not be included in the ranking.
+   - The decisions of the officials during the competitions are final.
+
+7. Additional Items
+   - For 500-piece puzzles, participants may use 2 sorting aids (max. size A3) made of cardboard, foam or other materials. For 1000-piece puzzles, participants may use 4 sorting aids (max. size A2) made of cardboard, foam or other materials. These are not provided by the organiser.
+   - Supports/holders for the puzzle box lid are allowed.
+   - Headphones are allowed as long as they do not disturb other participants. Singing, speaking loudly and shouting is not allowed. Violation of these rules may result in disqualification.
+   - Photographs and video recordings are allowed during the competition, except for professional purposes. However, recording devices brought by the participants themselves must not extend beyond the table or interfere with the competition. Violation of these rules may result in disqualification.
+   - Participants are not allowed to use additional lighting or mechanical/digital devices that help with assembling the puzzle.
+   - The use of printed 1:1 scale patterns, templates of the puzzle’s cut or any other document that provides additional information for the assembly of the puzzle (even if enclosed with the puzzle) is prohibited.
+   - Digital devices (smartphones, tablets, etc.) may not be used to view or enlarge the image of the puzzle.
+   - Pets are not allowed in the competition area.
+   - Objects that change the height or arrangement of the tables are not allowed.
+
+8. After the Competition
+   - If the puzzle is not completed in the allotted time, an official will count the remaining pieces and note the correctly placed pieces.
+   - All puzzles used in the competition become the property of the participants at the end of the competition.
+   - Participants allow their name and nationality to be used in lists of participants, lists of results and other digital and printed publications.
+   - After finishing the puzzle, the competition area can be left early. In doing so, participants must take all of their belongings with them and take care not to obstruct other participants. After the competition has ended, all participants should quickly leave the competition area with their belongings so that the area can be prepared for the next competition.
+   - The organiser would like to point out that pictures and videos will be taken during the event and that these may be published on the internet or in other media. By participating in this public event, participants waive their ‘right to their own image’.
+   - The organiser is not liable for the loss of or theft of objects of any kind.
