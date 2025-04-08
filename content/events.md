@@ -19,7 +19,7 @@ Hier findest du ein paar lokale Events!
 <br>
     
 <dl>
-<dt>&#127462;&#127481; Österreichische Puzzle-Meisterschaften</dt>
+<dt>&#127462;&#127481; 1. Österreichische Puzzle-Meisterschaften</dt>
     <dd>Datum: 28. Juni 2025</dd>
     <dd>Ort: Wiener Neudorf</dd>
     <dd>Mehr Infos findest du unter dem "Meisterschaft" Link</dd>

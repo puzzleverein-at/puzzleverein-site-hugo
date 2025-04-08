@@ -71,7 +71,7 @@ canonifyurls = true
   identifier = "meisterschaft"
   name = "Meisterschaft 2025"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-trophy\" aria-hidden=\"true\"></i>"
-  url = "/meisterschaft2025"  # "https://meisterschaft.puzzleverein.at"
+  url = "https://meisterschaft.puzzleverein.at"  # "/meisterschaft2025"
 [[menu.links]]
   weight = 3
   identifier = "puzzle-swap"

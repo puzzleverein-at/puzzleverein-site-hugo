@@ -16,9 +16,9 @@ showDate: false
 ---
 
 
-Die Anmeldung wird in Kürze geöffnet!
+Die Anmeldung ist geöffnet! -> [Hierlang zum Registrieren](https://meisterschaft.puzzleverein.at/)
 <!--more-->
-Registrations will open shortly!
+Registrations are open! -> [Sign up here](https://meisterschaft.puzzleverein.at/)
 (for more information in English see below! &#127468;&#127463;)
 
 -----
