@@ -1,10 +1,10 @@
 ---
 title: "Save the Date! Die 1. Österreichische Meisterschaft im Speedpuzzeln"
 date: 2025-03-01
-thumbnailImage: images/oem2025/oem-2025-std.jpg
-coverImage: images/oem2025/austria-flag.jpg
+thumbnailImage: images/oem/oem-2025-std.jpg
+coverImage: images/oem/austria-flag.jpg
 gallery:
-- /images/oem2025/oem-2025-std.jpg "Save the Date!"
+- /images/oem/oem-2025-std.jpg "Save the Date!"
 
 metaAlignment: center
 coverMeta: in

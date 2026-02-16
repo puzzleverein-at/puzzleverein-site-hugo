@@ -13,7 +13,7 @@ coverMeta: in
 coverSize: partial
 showDate: false
 ---
-
+ 
 
 Als begeisterte, aber über ganz Österreich verteilte Puzzle-Fans haben wir uns nach und nach gefunden. Um die Organisation zu erleichtern, noch mehr Gleichgesinnte zu erreichen und in Zukunft Events auf die Beine zu stellen, haben wir beschlossen, einen offiziellen Verein zu gründen!
 <!--more-->

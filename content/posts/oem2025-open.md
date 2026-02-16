@@ -1,11 +1,11 @@
 ---
-title: "Anmeldung geöffnet für die Speed Puzzle Meisterschaft"
+title: "Anmeldung geöffnet für die 2025 Speed Puzzle Meisterschaft"
 date: 2025-04-08
-thumbnailImage: images/oem2025/oem-2025-open.png
-coverImage: images/oem2025/austria-flag.jpg
+thumbnailImage: images/oem/oem-2025-open.png
+coverImage: images/oem/austria-flag.jpg
 gallery:
-- /images/oem2025/oem-2025-info.png "Infos zu den Bewerben"
-- /images/oem2025/oem-2025-open.png "Anmeldung geöffnet!"
+- /images/oem/oem-2025-info.png "Infos zu den Bewerben"
+- /images/oem/oem-2025-open.png "Anmeldung geöffnet!"
 
 metaAlignment: center
 coverMeta: in

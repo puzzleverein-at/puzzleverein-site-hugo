@@ -3,7 +3,7 @@ type: "page"
 layout: "simple-single"
 
 clearReading: true
-title: "Events"
+title: "Puzzletreffen"
 thumbnailImagePosition: "bottom"
 thumbnailImage: images/puzzle-event-purple.jpg
 coverImage: images/puzzle-event-purple.jpg
@@ -14,16 +14,9 @@ coverSize: partial
 showDate: false
 ---
 
-Hier findest du ein paar lokale Events!
+Hier findest du Infos zu lokale Puzzle- und Tauschtreffen!
 <!--more-->
 <br>
-    
-<dl>
-<dt>&#127462;&#127481; 1. Österreichische Puzzle-Meisterschaften</dt>
-    <dd>Datum: 28. Juni 2025</dd>
-    <dd>Ort: Wiener Neudorf</dd>
-    <dd>Mehr Infos findest du unter dem "Meisterschaft" Link</dd>
-</dl>
 
 <dl>
 <dt>&#127905; Puzzletreff Wien</dt>
@@ -37,15 +30,17 @@ Hier findest du ein paar lokale Events!
     <dd>Für Details, meldet auch auf Instagram <a href="https://www.instagram.com/verelanz">@verelanz</a>!</dd>
 </dl>
 
-
 <dl>
-<dt>&#10067; Puzzle Event für Alle (noch nicht veröffentlicht!)</dt>
-    <dd>In Planung für Herbst 2025</dd>
-    <dd>In Oberösterreich</dd>
-    <dd>Updates folgen sobald öffentlich!</dd>
+<dt>&#127793; Puzzletreff Oberösterreich</dt>
+    <dd>Entsteht gerade!</dd>
+    <dd>Kontaktdetails kommen noch</dd>
 </dl>
 
-
+<dl>
+<dt>&#127966;&#65039; Puzzletreff Kärnten</dt>
+    <dd>Entsteht gerade!</dd>
+    <dd>Kontaktdetails kommen noch</dd>
+</dl>
 
 
 Fröhliches Puzzeln und hoffentlich bis bald!
