@@ -77,7 +77,7 @@ canonifyurls = true
   identifier = "puzzle-swap"
   name = "Puzzle Swap"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-handshake\" aria-hidden=\"true\"></i>"
-  url = "https://tauschen.puzzleverein.at"
+  url = "/puzzleswap"  # "https://tauschen.puzzleverein.at"
 
 
 [[menu.misc]]

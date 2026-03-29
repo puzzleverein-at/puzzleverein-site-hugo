@@ -25,11 +25,13 @@ Was bringt eine Mitgliedschaft? 🧑‍🤝‍🧑
 
   - Die Möglichkeit, den Verein von Anfang an mitzugestalten
   - Vernetzung und Austausch mit anderen Puzzle-Fans in Österreich
-  - Infos über verschiedene Puzzle-Veranstaltungen in Europa
-  - Zugang zu zukünftigen Mitglieder-Events und Specials wie Vereins-Shirts
-  - Unterstützung bei der Organisation regionaler Puzzle-Treffen
+  - Einen Account auf unserer Tauschplattform: PuzzleSwap
+  - Rabatte bei der Nationalmeisterschaft im Speedpuzzeln vom Puzzleverein Österreich
+  - Zugang zu zukünftigen Specials wie Vereins-Shirts und kleine Goodies
+  - Unterstützung bei der Organisation regionaler Puzzle-Treffen, z.B. Social Media Outreach und Vernetzung
 
-Der Mitgliedsbeitrag beträgt 20 € pro Jahr und hilft uns, den Verein weiter aufzubauen.
+Der Mitgliedsbeitrag beträgt 20 € pro Jahr und hilft uns, den Verein weiter aufzubauen 
+und diverse Veranstaltungen ins Leben zu rufen.
 
 Egal, ob du aktiv mitgestalten möchtest oder einfach Teil unserer wachsenden Puzzle-Community sein willst – wir freuen uns auf dich!
 
