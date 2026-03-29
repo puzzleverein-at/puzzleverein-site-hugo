@@ -18,8 +18,8 @@ showDate: false
 PuzzleSwap ist eine eigens von uns designte Puzzle-Tauschplattform für Mitglieder 
 des Puzzleverein Österreich!
 <!--more-->
-<img src="https://puzzleverein.at/images/puzzleswap/PuzzleSwap-Logo-main_padded_white.png">
 <a href="https://tauschen.puzzleverein.at">Hier geht's zur PuzzleSwap Seite!</a>
+<img src="https://puzzleverein.at/images/puzzleswap/PuzzleSwap-Logo-main_padded_white.png">
 
 Sie ist dafür ausgelegt, um kleine sowie große Sammlungen an Puzzels zu organisieren, die man gerne gegen andere Puzzle tauschen würden. Jede Person kann eine eigene Sammlung anlegen, dort den Verfügbarkeitsstatus jedes Puzzels setzen, und auch etwaige Zusatzinformationen wie Fehlteile angeben. Dann kann mit anderen Benutzern ein Tausch für ein oder mehrere Puzzles aus deren Sammlung angefragt werden.
 
